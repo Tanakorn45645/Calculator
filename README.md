@@ -1,3 +1,3 @@
 # Calculator
-img = src="1.png,2.png"
+img = src="1.png"
  เครื่องคิดเลข
